@@ -4550,7 +4550,7 @@ GameObject:
   - component: {fileID: 618573426}
   - component: {fileID: 618573425}
   m_Layer: 0
-  m_Name: base
+  m_Name: course
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14770,6 +14770,6 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 618573430}
   - {fileID: 79976147}
   - {fileID: 44122492}
-  - {fileID: 618573430}
